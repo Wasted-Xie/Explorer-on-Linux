@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Notification Center
+GenericName=Notification Center
+Comment=Explorer Linux Notification Center
+Exec=notification-center
+Icon=explorer-notification-center
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false
+NoDisplay=true
+DBusActivatable=true
+X-DBUS-ServiceName=org.explorer.NotificationCenter
+X-DBUS-ObjectPath=/org/explorer/NotificationCenter

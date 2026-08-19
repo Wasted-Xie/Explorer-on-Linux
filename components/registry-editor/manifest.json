@@ -1,0 +1,12 @@
+{
+  "id": "org.explorer.registry.editor",
+  "name": "registry-editor",
+  "exec": "",
+  "icon": "",
+  "category": "system-tools",
+  "integration": "external",
+  "dbus": null,
+  "hotkey": null,
+  "autorun": false,
+  "version": "0.0.0"
+}

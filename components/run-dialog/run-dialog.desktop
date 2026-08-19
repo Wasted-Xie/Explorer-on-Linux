@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Run Dialog
+GenericName=Run Command
+Comment=Run a command or launch an application
+Exec=run-dialog --show
+Icon=system-run
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false
+NoDisplay=true
+Keywords=run;command;execute;launch;win+r;

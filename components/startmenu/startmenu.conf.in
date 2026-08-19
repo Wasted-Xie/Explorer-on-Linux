@@ -1,0 +1,26 @@
+# Explorer Start Menu Configuration
+# This file is installed to /etc/explorer/startmenu.conf
+# User overrides can be placed in ~/.config/explorer/startmenu.conf
+
+[startmenu]
+# Window dimensions
+width=320
+maxHeight=480
+itemHeight=44
+margin=8
+iconSize=24
+itemPadding=8
+
+# Application directories to scan for .desktop files
+applicationsDir=/usr/share/applications
+additionalDirs=/usr/local/share/applications,~/.local/share/applications
+
+# Behavior
+closeOnLaunch=true
+closeOnOutsideClick=true
+keyboardNavigation=true
+
+# Appearance (theme colors are from libexplorer-ui ThemeManager)
+# backgroundColor=@theme(window)
+# hoverColor=@theme(highlight)
+# textColor=@theme(windowtext)

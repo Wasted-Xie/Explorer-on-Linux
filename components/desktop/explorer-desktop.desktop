@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Explorer Desktop
+GenericName=Desktop
+Comment=Explorer Linux Desktop Component
+Exec=explorer-desktop
+Icon=preferences-desktop
+Terminal=false
+Categories=System;DesktopSettings;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-Autostart-enabled=true
+X-Explorer-Component=desktop

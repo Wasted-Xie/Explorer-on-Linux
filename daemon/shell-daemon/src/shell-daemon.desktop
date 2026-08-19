@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Explorer Linux Daemon
+Comment=Core daemon for Explorer Linux desktop environment
+Exec=shell-daemon
+Terminal=false
+Type=Application
+Categories=System;Daemon;
+X-GNOME-Autostart-enabled=true

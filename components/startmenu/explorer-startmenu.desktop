@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Explorer Start Menu
+GenericName=Start Menu
+Comment=Application launcher for Explorer Linux
+Exec=explorer-startmenu
+Icon=explorer-startmenu
+Terminal=false
+Categories=System;Utility;
+StartupNotify=false
+NoDisplay=true
+DBusActivatable=true
+X-Explorer-Component=startmenu

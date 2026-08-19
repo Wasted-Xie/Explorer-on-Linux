@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Explorer Search
+GenericName=Global Search
+Comment=Search applications, files, and folders
+Exec=search --show
+Icon=system-search
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
+DBusActivatable=true
+X-DBUS-ServiceName=org.explorer.Search
+X-DBUS-ObjectPath=/org/explorer/Search
+X-DBUS-InterfaceName=org.explorer.Search
+Keywords=search;find;application;file;folder;

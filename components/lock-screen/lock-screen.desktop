@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Explorer Lock Screen
+GenericName=Lock Screen
+Comment=Lock the screen and require password to unlock
+Exec=lock-screen --show
+Icon=system-lock-screen
+Terminal=false
+Categories=System;Security;
+StartupNotify=false
+NoDisplay=true
+X-Explorer-Component=lock-screen
+X-Explorer-Autostart=false
+Keywords=lock;screen;password;security;unlock;

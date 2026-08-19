@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=File Manager
+Comment=Explorer Linux File Manager
+Exec=filemanager
+Icon=folder
+Terminal=false
+Type=Application
+Categories=System;FileTools;
+MimeType=inode/directory;
